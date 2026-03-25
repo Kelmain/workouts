@@ -1,0 +1,263 @@
+features/workout/components/__tests__/DraftPrompt.test.tsx
+  eb7af5516ae52fe1 1-46
+features/workout/services/__tests__/plan-generator.test.ts
+  eb7af5516ae52fe1 1-175
+features/workout/services/plan-generator.ts
+  eb7af5516ae52fe1 1-141
+features/workout/hooks/useWorkoutTimer.ts
+  eb7af5516ae52fe1 1-93
+features/settings/components/__tests__/RestTimerPicker.test.tsx
+  e6da53cea04ab055 1-77
+package.json
+  eb7af5516ae52fe1 2,4,9-12,45-56
+features/workout/components/WorkoutPlayer.tsx
+  eb7af5516ae52fe1 1-110
+app/(tabs)/home.tsx
+  e6da53cea04ab055 2-10,12-18,20-37,39-99
+  eb7af5516ae52fe1 1,11,19,38,100-101
+features/equipment/services/equipment-service.ts
+  eb7af5516ae52fe1 1-35
+jest.setup.js
+  eb7af5516ae52fe1 1-15
+app/_layout.tsx
+  eb7af5516ae52fe1 1-6,10,19,23,26-32,44-45
+  e6da53cea04ab055 7-9,11-18,20-22,24-25,33-43
+features/auth/hooks/useAuth.ts
+  eb7af5516ae52fe1 1-66
+features/workout/stores/workout-store.ts
+  eb7af5516ae52fe1 1-75
+features/workout/types/index.ts
+  eb7af5516ae52fe1 1-32
+features/history/components/ProgressChart.tsx
+  e6da53cea04ab055 1-57
+features/workout/hooks/__tests__/useWorkoutDraft.test.ts
+  eb7af5516ae52fe1 1-106
+features/offline/netinfo.d.ts
+  e6da53cea04ab055 1-14
+features/auth/services/firebase-auth.ts
+  eb7af5516ae52fe1 1-72
+app/(tabs)/history.tsx
+  e6da53cea04ab055 1-7,9-10,12-24,26-67
+  eb7af5516ae52fe1 8,11,25,68-70
+.gitignore
+  eb7af5516ae52fe1 4-33
+tsconfig.json
+  eb7af5516ae52fe1 4-12
+tailwind.config.js
+  eb7af5516ae52fe1 1-13
+.env.example
+  eb7af5516ae52fe1 1-13
+features/exercises/types/index.ts
+  eb7af5516ae52fe1 1-21
+features/history/types/index.ts
+  e6da53cea04ab055 1-39
+app/(tabs)/_layout.tsx
+  eb7af5516ae52fe1 1-37
+features/workout/components/DraftPrompt.tsx
+  eb7af5516ae52fe1 1-37
+features/equipment/services/__tests__/equipment-service.test.ts
+  eb7af5516ae52fe1 1-123
+features/workout/hooks/useWorkoutDraft.ts
+  eb7af5516ae52fe1 1-32
+features/history/components/CalendarView.tsx
+  e6da53cea04ab055 1-101
+features/settings/stores/settings-store.ts
+  e6da53cea04ab055 1-14
+features/auth/components/__tests__/AuthGuard.test.tsx
+  eb7af5516ae52fe1 1-155
+features/workout/components/__tests__/WorkoutSummary.test.tsx
+  eb7af5516ae52fe1 1-72
+features/workout/services/workout-log.ts
+  e6da53cea04ab055 1-45
+features/exercises/services/__tests__/exercise-data.test.ts
+  eb7af5516ae52fe1 1-212
+features/error/components/__tests__/ErrorBoundary.test.tsx
+  e6da53cea04ab055 1-66
+app/(tabs)/settings.tsx
+  eb7af5516ae52fe1 1,8-9,22,58-59
+  e6da53cea04ab055 2-7,10-21,23-57
+features/workout/components/__tests__/SetLogger.test.tsx
+  eb7af5516ae52fe1 1-83
+app/history/[logId].tsx
+  e6da53cea04ab055 1-32
+features/workout/stores/__tests__/workout-store.test.ts
+  eb7af5516ae52fe1 1-188
+features/exercises/services/exercise-data.ts
+  eb7af5516ae52fe1 1-64
+app/(tabs)/library.tsx
+  eb7af5516ae52fe1 1-94
+__mocks__/@react-native-community/netinfo.js
+  e6da53cea04ab055 1-17
+features/history/components/__tests__/WorkoutDetail.test.tsx
+  e6da53cea04ab055 1-77
+features/auth/hooks/__tests__/useAuth.test.ts
+  eb7af5516ae52fe1 1-200
+features/equipment/hooks/useEquipment.ts
+  eb7af5516ae52fe1 1-41
+app/(auth)/_layout.tsx
+  eb7af5516ae52fe1 1-11
+features/auth/components/AuthGuard.tsx
+  eb7af5516ae52fe1 1-39
+features/workout/components/PlanSelector.tsx
+  eb7af5516ae52fe1 1-45
+features/exercises/components/ExerciseFilters.tsx
+  eb7af5516ae52fe1 1-136
+features/offline/components/__tests__/OfflineBanner.test.tsx
+  e6da53cea04ab055 1-27
+features/workout/hooks/__tests__/useWorkoutTimer.test.ts
+  eb7af5516ae52fe1 1-124
+features/exercises/components/ExerciseDetail.tsx
+  eb7af5516ae52fe1 1-113
+features/error/components/ErrorBoundary.tsx
+  e6da53cea04ab055 1-54
+app/workout/[planType].tsx
+  eb7af5516ae52fe1 1-68
+features/history/hooks/useWorkoutHistory.ts
+  e6da53cea04ab055 1-18
+features/equipment/components/__tests__/EquipmentPicker.test.tsx
+  eb7af5516ae52fe1 1-96
+features/history/components/__tests__/CalendarView.test.tsx
+  e6da53cea04ab055 1-91
+global.css
+  eb7af5516ae52fe1 1-3
+features/history/components/WorkoutDetail.tsx
+  e6da53cea04ab055 1-60
+app/(auth)/login.tsx
+  eb7af5516ae52fe1 1-31
+firestore.rules
+  eb7af5516ae52fe1 1-21
+metro.config.js
+  eb7af5516ae52fe1 1-6
+features/exercises/hooks/useExerciseSearch.ts
+  eb7af5516ae52fe1 1-31
+features/exercises/hooks/__tests__/useExerciseFilters.test.ts
+  eb7af5516ae52fe1 1-122
+features/settings/components/RestTimerPicker.tsx
+  e6da53cea04ab055 1-63
+features/workout/components/WorkoutSummary.tsx
+  e6da53cea04ab055 16,42
+  eb7af5516ae52fe1 1-15,17-41
+features/offline/components/OfflineBanner.tsx
+  e6da53cea04ab055 1-18
+app.json
+  eb7af5516ae52fe1 3-4,9,25-26,30-35
+features/history/services/__tests__/suggested-workout.test.ts
+  e6da53cea04ab055 1-44
+features/history/services/history-queries.ts
+  e6da53cea04ab055 1-36
+features/history/services/suggested-workout.ts
+  e6da53cea04ab055 1-11
+features/workout/hooks/useRestTimer.ts
+  eb7af5516ae52fe1 1-64,66-69,71,73-81,83-85,87-88,92-93,95,98,100-102,104,106-107,109-110,112-119
+  e6da53cea04ab055 65,70,72,82,86,89-91,94,96-97,99,103,105,108,111
+features/history/components/__tests__/ProgressChart.test.tsx
+  e6da53cea04ab055 1-87
+features/history/hooks/__tests__/useStats.test.ts
+  e6da53cea04ab055 1-97
+features/offline/hooks/useNetworkStatus.ts
+  e6da53cea04ab055 1-15
+assets/data/plan-templates.json
+  eb7af5516ae52fe1 1-5
+features/equipment/hooks/__tests__/useEquipment.test.ts
+  eb7af5516ae52fe1 1-116
+features/history/services/__tests__/history-queries.test.ts
+  e6da53cea04ab055 1-134
+features/workout/services/__tests__/workout-log.test.ts
+  eb7af5516ae52fe1 1-34,36-136
+  e6da53cea04ab055 35
+features/history/hooks/__tests__/useWorkoutHistory.test.ts
+  e6da53cea04ab055 1-102
+features/history/hooks/useStats.ts
+  e6da53cea04ab055 1-29
+assets/data/exercises.json
+  eb7af5516ae52fe1 1-2,22304,22360-22361,22385-22386,22388-22389,22494,22602,22609-22611,22616-22617
+app/(auth)/onboarding.tsx
+  eb7af5516ae52fe1 1-49
+features/history/components/HistoryList.tsx
+  e6da53cea04ab055 1-67
+features/settings/stores/__tests__/settings-store.test.ts
+  e6da53cea04ab055 1-46
+features/exercises/components/__tests__/ExerciseCard.test.tsx
+  eb7af5516ae52fe1 1-88
+babel.config.js
+  eb7af5516ae52fe1 1-6
+features/exercises/hooks/__tests__/useExerciseSearch.test.ts
+  eb7af5516ae52fe1 1-118
+nativewind-env.d.ts
+  eb7af5516ae52fe1 1
+shared/lib/firebase.ts
+  e6da53cea04ab055 12-15
+  eb7af5516ae52fe1 1-11,16
+features/history/hooks/__tests__/useExerciseProgress.test.ts
+  e6da53cea04ab055 1-100
+features/exercises/components/__tests__/ExerciseDetail.test.tsx
+  eb7af5516ae52fe1 1-144
+features/history/services/__tests__/stats-calculator.test.ts
+  e6da53cea04ab055 1-221
+shared/types/index.ts
+  eb7af5516ae52fe1 1-17
+features/history/services/stats-calculator.ts
+  e6da53cea04ab055 1-143
+features/workout/hooks/__tests__/useRestTimer.test.ts
+  eb7af5516ae52fe1 1-42,44-45,47-56,58-59,61-133
+  e6da53cea04ab055 43,46,57,60
+shared/lib/constants.ts
+  eb7af5516ae52fe1 1-6
+features/equipment/components/EquipmentPicker.tsx
+  eb7af5516ae52fe1 1-68
+features/offline/hooks/__tests__/useNetworkStatus.test.ts
+  e6da53cea04ab055 1-49
+eas.json
+  e6da53cea04ab055 1-35
+features/history/hooks/useExerciseProgress.ts
+  e6da53cea04ab055 1-21
+features/auth/services/__tests__/firebase-auth.test.ts
+  eb7af5516ae52fe1 1-254
+features/exercises/hooks/useExercises.ts
+  eb7af5516ae52fe1 1-24
+features/exercises/components/ExerciseCard.tsx
+  e6da53cea04ab055 14,63
+  eb7af5516ae52fe1 1-13,15-62
+features/workout/components/SetLogger.tsx
+  eb7af5516ae52fe1 2-10,12-99
+  e6da53cea04ab055 1,11
+features/history/components/__tests__/HistoryList.test.tsx
+  e6da53cea04ab055 1-97
+app/exercise/[id].tsx
+  eb7af5516ae52fe1 1-34
+features/exercises/hooks/useExerciseFilters.ts
+  eb7af5516ae52fe1 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "163d3dce925ebb41010ce3cd07210bb350db9a1a",
+  "prompts": {
+    "e6da53cea04ab055": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "abfc31e2-aa9d-4280-8d16-085fb764b795",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "arminneumann <armin.neumann.tw@davidson.fr>",
+      "messages": [],
+      "total_additions": 2744,
+      "total_deletions": 101,
+      "accepted_lines": 2689,
+      "overriden_lines": 0
+    },
+    "eb7af5516ae52fe1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e31f62b6-8a88-4aae-ac80-7fbd7920827d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "arminneumann <armin.neumann.tw@davidson.fr>",
+      "messages": [],
+      "total_additions": 5026,
+      "total_deletions": 123,
+      "accepted_lines": 4867,
+      "overriden_lines": 3
+    }
+  }
+}
