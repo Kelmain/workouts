@@ -1,0 +1,33 @@
+# Claude Forge
+.claude/
+CLAUDE.md
+
+# Environment variables (NEVER commit)
+.env
+.env.local
+.env.*.local
+
+# Firebase native config (contains API keys — NEVER commit)
+google-services.json
+GoogleService-Info.plist
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest
+coverage/
+
+# Local Claude overrides
+CLAUDE.local.md

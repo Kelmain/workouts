@@ -1,0 +1,5 @@
+{
+  "upper": ["chest", "middle back", "lats", "shoulders", "biceps", "triceps", "abdominals"],
+  "lower": ["quadriceps", "hamstrings", "glutes", "calves", "abdominals"],
+  "full": ["chest", "middle back", "lats", "shoulders", "biceps", "triceps", "abdominals", "quadriceps", "hamstrings", "glutes", "calves"]
+}
