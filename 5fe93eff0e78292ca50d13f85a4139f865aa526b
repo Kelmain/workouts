@@ -1,0 +1,23 @@
+.gitignore
+  e6da53cea04ab055 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "5fe93eff0e78292ca50d13f85a4139f865aa526b",
+  "prompts": {
+    "e6da53cea04ab055": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "abfc31e2-aa9d-4280-8d16-085fb764b795",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "arminneumann <armin.neumann.tw@davidson.fr>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
