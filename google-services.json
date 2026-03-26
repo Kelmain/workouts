@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950344792758",
+    "project_id": "workout-d85c9",
+    "storage_bucket": "workout-d85c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950344792758:android:d6e0e855f0ddef625dc417",
+        "android_client_info": {
+          "package_name": "com.kelmain.workouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950344792758-3rid2svt8k6925dhbh7r388idj070jd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelmain.workouts",
+            "certificate_hash": "94d4b007d43f7df80c25f0663aaeb541abbb9274"
+          }
+        },
+        {
+          "client_id": "950344792758-2mv2o2j4nretd7sub7htg8ae4tms7kgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDs8mPR3zcgWbmFC2lLJBRW8PGn3gA388"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950344792758-2mv2o2j4nretd7sub7htg8ae4tms7kgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

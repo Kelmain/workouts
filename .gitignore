@@ -7,8 +7,7 @@ CLAUDE.md
 .env.local
 .env.*.local
 
-# Firebase native config (contains API keys — NEVER commit)
-google-services.json
+# Firebase iOS config (not needed for Android-only project)
 GoogleService-Info.plist
 
 # Node
